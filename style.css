@@ -409,7 +409,7 @@ p.txt-servz {
         cursor: pointer;
         padding: 11px;
         background: #b5447d;
-        width: 105%;
+        width: 112%;
         margin-top: -8px;
         margin-left: -8px;
     }
@@ -465,14 +465,14 @@ p.txt-servz {
     }
 
     .corazon {
-        margin-right: -115%;
-        margin-top: -23%;
+        margin-right: -127%;
+        margin-top: -26%;
         width: 40px;
         height: 40px;
     }
 
     .logo-text {
-        font-size: 60px;
+        font-size: 54px;
         margin-left: -50%;
         margin-top: -35%;
     }
@@ -490,6 +490,7 @@ p.txt-servz {
         margin-top: 240px;
         display: block;
         margin-left: 8%;
+        width: 100%;
     }
 
     .sobrenos {
@@ -607,7 +608,7 @@ p.txt-servz {
         width: 48px;
         margin-top: -105%;
         position: absolute;
-        margin-left: 165%;
+        margin-left: 176%;
     }
 
     .grid-circ {
@@ -633,7 +634,8 @@ p.txt-servz {
     }
 
     .pie {
-        margin-top: 82%;
+        margin-top: 86%;
+        width: 106%;
     }
 
     #scroll {
@@ -677,5 +679,10 @@ p.txt-servz {
     body {
         height: 100%;
         width: 90%;
+    }
+
+    img.corazon-logo {
+        margin-top: -35%;
+        margin-left: 45%;
     }
 }
