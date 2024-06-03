@@ -409,7 +409,7 @@ p.txt-servz {
         cursor: pointer;
         padding: 11px;
         background: #b5447d;
-        width: 100%;
+        width: 105%;
         margin-top: -8px;
         margin-left: -8px;
     }
@@ -464,7 +464,7 @@ p.txt-servz {
     }
 
     .corazon {
-        margin-right: -100%;
+        margin-right: -115%;
         margin-top: -23%;
         width: 40px;
         height: 40px;
@@ -488,6 +488,7 @@ p.txt-servz {
     .nosotros {
         margin-top: 240px;
         display: block;
+        margin-left: 8%;
     }
 
     .sobrenos {
@@ -574,6 +575,7 @@ p.txt-servz {
     iframe {
         height: 220px;
         width: 380px;
+        margin-left: 2%;
     }
 
     .circulo3 {
@@ -604,7 +606,7 @@ p.txt-servz {
         width: 48px;
         margin-top: -105%;
         position: absolute;
-        margin-left: 157%;
+        margin-left: 165%;
     }
 
     .grid-circ {
@@ -630,7 +632,7 @@ p.txt-servz {
     }
 
     .pie {
-        margin-top: 78%;
+        margin-top: 82%;
     }
 
     #scroll {
@@ -669,5 +671,10 @@ p.txt-servz {
 
     .creditos {
         margin-left: 40%;
+    }
+
+    body {
+        height: 100%;
+        width: 90%;
     }
 }
