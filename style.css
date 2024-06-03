@@ -88,13 +88,6 @@ h2 {
     text-align: center;
 }
 
-/* .linea {
-    background: #ff007d40;
-    height: 1.5px;
-    width: 600px;
-    margin: auto;
-    margin-top: 180px;
-} */
 
 .sobrenos {
     position: absolute;
@@ -233,15 +226,6 @@ p {
     border-radius: 10px;
 }
 
-.equipo {
-    margin-top: 70px;
-    margin-left: 10px;
-}
-
-.nuestro-equipo {
-    display: flex;
-    margin-left: 38%;
-}
 
 .logo-text {
     font-size: 75px;
