@@ -517,8 +517,7 @@ p.txt-servz {
     }
 
     .linea2 {
-        margin-top: 20%;
-        width: 180px;
+        display: none;
     }
 
     .titulo-serv {
@@ -577,6 +576,7 @@ p.txt-servz {
     .consul {
         float: left;
         margin-left: 10%;
+        margin-top: 45%;
     }
 
     iframe {
@@ -690,4 +690,5 @@ p.txt-servz {
         margin-top: -35%;
         margin-left: 45%;
     }
+
 }
