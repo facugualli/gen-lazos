@@ -97,15 +97,14 @@ h2 {
 
 p {
     font-family: 'IBM Plex Sans Condensed', sans-serif;
-    font-size: 20px;
+    font-size: 17px;
     margin-left: 10%;
     border: none;
 }
 
 .texto-nos {
     padding: 10px;
-    /* background: linear-gradient(1deg, #fee6f3, transparent); */
-    margin-top: 30%;
+    margin-top: 22%;
 }
 
 .grid-img {
@@ -161,8 +160,12 @@ p {
     width: 100%;
 }
 
+.items-txt-nos {
+    margin-top: 10%;
+}
+
 .titulo-serv {
-    margin-left: 24%;
+    margin-left: 15%;
     margin-top: 70px;
 }
 
@@ -508,7 +511,7 @@ p.txt-servz {
         text-align: center;
         padding: 1px;
         font-weight: bold;
-        font-size: 18px;
+        font-size: 15px;
     }
 
     .linea2 {
@@ -533,7 +536,7 @@ p.txt-servz {
 
     .txt-servz {
         margin-top: 0;
-        font-size: 9px;
+        font-size: 7px;
     }
 
     .nuestro-equipo {
