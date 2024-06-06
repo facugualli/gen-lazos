@@ -53,6 +53,7 @@ h2 {
     margin-right: 15%;
     margin-top: 0px;
     text-shadow: 3px 3px 0px #4700504d;
+    font-weight: 100;
 }
 
 .corazon-logo {
@@ -232,6 +233,7 @@ p {
 
 .logo-text {
     font-size: 75px;
+    font-weight: 600;
 }
 
 iframe {
